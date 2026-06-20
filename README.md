@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://umairali.me">
-<img src="./assets/header.svg" alt="Umair Ali - Precision Cattle Monitoring" width="800" />
+<img src="./header.svg" alt="Umair Ali - Precision Cattle Monitoring" width="800" />
 </a>
 
 <br/>
