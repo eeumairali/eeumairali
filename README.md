@@ -167,7 +167,7 @@ Structured ML/Python curriculum on **Preply** and privately — Python → data 
 
 ### 📫 Let's build something
 
-**eeumairali@gmail.com** · WhatsApp **+92 320 7651231**
+**eeumairali@gmail.com** 
 
 *Open to collaboration on Python & ML projects.*
 
