@@ -5,8 +5,12 @@
 <div align="center">
 
 <a href="https://umairali.me">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=2E8B57&center=true&vCenter=true&width=700&height=70&lines=Umair+Ali;Teaching+machines+to+recognize+cattle;Detection+%E2%86%92+Re-ID+%E2%86%92+Behavior%2C+one+backbone;PhD+Scholar+%C2%B7+Python+Dev+%C2%B7+ML+Researcher" alt="Umair Ali" />
+<img src="./assets/header.svg" alt="Umair Ali - Precision Cattle Monitoring" width="800" />
 </a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=2E8B57&center=true&vCenter=true&width=650&height=45&lines=PhD+Scholar+%C2%B7+Python+Dev+%C2%B7+ML+Researcher;Teaching+machines+to+recognize+cattle" alt="roles" />
 
 </div>
 
@@ -32,9 +36,11 @@ flowchart LR
 
 ## `whoami`
 
-I'm a **PhD scholar in Electrical Engineering** (University of Gujrat) building a **Unified Multi-Task Deep Learning Framework for Precision Cattle Monitoring** — joint **detection · re-identification · behavior recognition** on one shared backbone.
+I'm a **Python developer**, **machine learning engineer**, and **online programming tutor** — and a **PhD scholar in Electrical Engineering** (University of Gujrat) building a **Unified Multi-Task Deep Learning Framework for Precision Cattle Monitoring** (joint **detection · re-identification · behavior recognition** on one shared backbone).
 
-By day I ship **Python** systems and tutor ML; by night I fight the **occlusion problem** and long-term identity preservation in animal tracking.
+I teach **Python, data science, and machine learning online** — from **kids and absolute beginners** to advanced students preparing for research and industry. By day I ship Python systems and tutor; by night I fight the **occlusion problem** in animal tracking.
+
+🔎 *Looking for an online Python tutor, ML mentor, or coding teacher for kids and beginners? That's me — [reach out](mailto:eeumairali@gmail.com).*
 
 > *"Use AI as an accelerant — not a replacement for understanding."* — my teaching philosophy
 
@@ -63,12 +69,12 @@ By day I ship **Python** systems and tutor ML; by night I fight the **occlusion 
 </td>
 <td width="50%" valign="top">
 
-### 💼 What I Build
+### 💼 Build & Teach
 
 - 🐍 Python apps, automation & data pipelines
 - 📊 Forecasting & analytics *(XGBoost, time-series)*
 - 🤖 Computer vision & deep learning systems
-- 🎓 ML & Python tutoring, beginner → advanced
+- 🎓 **Online tutoring** — Python & ML for **kids, beginners & advanced**
 
 </td>
 </tr>
@@ -126,11 +132,19 @@ Targeting IEEE Transactions · Pattern Recognition · Computers and Electronics 
 </details>
 
 <details>
-<summary><b>🎓 Currently Teaching</b></summary>
+<summary><b>🎓 Online Tutoring — Python, ML & Coding for Kids and Beginners</b></summary>
 
 <br>
 
-Structured ML/Python curriculum on **Preply** and privately — Python → data viz → ML fundamentals → time-series forecasting → clustering, with hands-on projects.
+I offer **online programming tutoring** over Zoom for all levels:
+
+- 👧 **Kids & teens** — gentle, project-based intro to coding and Python
+- 🌱 **Absolute beginners** — Python fundamentals, the right way
+- 🚀 **Advanced students** — data science, machine learning, research prep
+
+Structured curriculum: Python → data visualization → ML fundamentals → time-series forecasting → clustering, with hands-on projects. Available on **Preply** and privately.
+
+📩 **Book a session:** [eeumairali@gmail.com](mailto:eeumairali@gmail.com)
 
 </details>
 
@@ -167,10 +181,14 @@ Structured ML/Python curriculum on **Preply** and privately — Python → data 
 
 ### 📫 Let's build something
 
-**eeumairali@gmail.com** 
+[**eeumairali@gmail.com**](mailto:eeumairali@gmail.com)
 
-*Open to collaboration on Python & ML projects.*
+*Open to collaboration on Python & ML projects — and online tutoring.*
 
 <img src="https://komarev.com/ghpvc/?username=eeumairali&style=flat-square&color=2E8B57&label=Profile+Views" />
+
+<br/><br/>
+
+<sub>Umair Ali — Python developer · machine learning engineer · online Python tutor · coding teacher for kids & beginners · data scientist · computer vision researcher · Gujrat, Pakistan</sub>
 
 </div>
