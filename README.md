@@ -160,8 +160,8 @@ Structured curriculum: Python → data visualization → ML fundamentals → tim
   <img src="https://github-readme-stats.vercel.app/api?username=eeumairali&show_icons=true&hide_border=true&icon_color=2E8B57&title_color=2E8B57" width="48%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eeumairali&theme=dark&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeumairali&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" width="48%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=eeumairali&theme=dark&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" />
+  <img src="https://streak-stats.demolab.com/?user=eeumairali&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" width="48%" />
 </picture>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeumairali&layout=compact&hide_border=true&title_color=2E8B57" width="40%" />
@@ -172,6 +172,12 @@ Structured curriculum: Python → data visualization → ML fundamentals → tim
 <div align="center">
 
 ![snake](https://raw.githubusercontent.com/eeumairali/eeumairali/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eeumairali&theme=github-compact&color=2E8B57&line=2E8B57&point=ffffff&hide_border=true)](https://github.com/eeumairali)
 
 </div>
 
