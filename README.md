@@ -168,12 +168,6 @@ Structured curriculum: Python → data visualization → ML fundamentals → tim
 
 </div>
 
-<!-- SNAKE ANIMATION — needs the GitHub Action (instructions below) -->
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/eeumairali/eeumairali/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 <div align="center">
 
